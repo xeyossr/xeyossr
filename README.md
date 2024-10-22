@@ -6,7 +6,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/1279151593056632949.png" alt="Discord"/>
 </a>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,jquery,react,python)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,react,python)](https://skillicons.dev)<br/>
 
 <!--
 ![status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1279151593056632949?simple=true)
