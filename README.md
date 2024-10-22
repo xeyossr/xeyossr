@@ -7,10 +7,3 @@
 </a>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,react,python)](https://skillicons.dev)<br/>
-
-<!--
-![status](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1279151593056632949?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1279151593056632949)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1279151593056632949)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1279151593056632949)](https://dev.discordprofiles.me/openspotify/1279151593056632949)
--->
