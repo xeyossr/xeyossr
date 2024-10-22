@@ -6,4 +6,4 @@
 <img src="https://discord.c99.nl/widget/theme-3/1279151593056632949.png" alt="Discord"/>
 </a>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,react,python)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,typescript,js,mongodb,nodejs,python,flask,electron,mysql)](https://skillicons.dev)<br/>
