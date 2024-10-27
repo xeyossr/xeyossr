@@ -9,7 +9,7 @@
   <code><a href="https://www.discord.com/users/1279151593056632949" title="itsfloss.sh"><img width="22" src="discord.svg"> itsfloss.sh</a></code>
 </h5>
 
-**I'm xeyossr**, I'm a junior developer and I'm studying computer engineering. My hobbies are reading books, listening to music, customizing my linux desktop and programming. Some of my projects are private (for example, applications I use daily, etc.) and some of them I publish on github (very rarely :)). My goal is to get better at programming. By the way, I use Arch :)
+**I'm xeyossr**, a junior developer studying computer engineering. My hobbies include reading books, listening to music, customizing my Linux desktop, and programming. Some of my projects are private, like applications I use daily, while a few are published on GitHub (though very rarely :)). My goal is to improve my programming skills. By the way, I use Arch!
 
 <a href="https://discord.com/users/1279151593056632949">
 <img src="https://discord.c99.nl/widget/theme-3/1279151593056632949.png" alt="Discord"/>
