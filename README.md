@@ -13,7 +13,7 @@
 
 <h5 align="left">
   <code><a href="https://app.revolt.chat/user/01J9ZXZ9A7SCXR44D0WWVW8YVK" title="kamisaki.sh#3785"><img width="22" src="assets/revolt.svg"> kamisaki.sh#3785</a></code>
-  <code><a href="https://www.discord.com/users/1279151593056632949" title="itsfloss.sh"><img width="22" src="assets/discord.svg"> itsfloss.sh</a></code>
+  <code><a href="https://www.discord.com/users/1279151593056632949" title="kamisaki.san"><img width="22" src="assets/discord.svg"> kamisaki.san</a></code>
 </h5>
 
 <a href="https://discord.com/users/1279151593056632949">
