@@ -39,9 +39,10 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 6. **Imam Shafii (rh)**
 7. **II.Mehmed**
 8. **Ibn Taymiyyah**
-9. **Richard Stallman**
-10. **Linus Torvalds**
-11. **Edward Snowden**
+9. **Abu al-Fadl Ismail al-Ganjavi (Nizami Ganjavi)**
+10. **Richard Stallman**
+11. **Linus Torvalds**
+12. **Edward Snowden**
 
 
 ## Languages and Tools
