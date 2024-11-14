@@ -8,13 +8,13 @@
 # Konichiwa 👋
 ![moshimoshi](assets/moshimoshi.gif)
 ## I'm xeyossr
-**I'm xeyossr**, a junior developer studying computer engineering. I am Muslim (Ashari/Shafi'i) and open to religious debates. 
+**I'm xeyossr**, a junior developer studying computer engineering. I am Muslim (Ashari/Shafi'i) and i use arch linux btw
 > Whoever speaks the truth in a matter will earn Allah’s help (Tirmidhi, Knowledge, 10)
 
 My hobbies include reading books, listening to Quran (and reading Quran), customizing my Linux desktop, and programming. Some of my projects are private, like applications I use daily, while a few are published on GitHub (though very rarely :)). 
 
 <h5 align="left">
-  <code><a href="https://app.revolt.chat/user/01J9ZXZ9A7SCXR44D0WWVW8YVK" title="kamisaki.sh#3785"><img width="22" src="assets/revolt.svg"> kamisaki.sh#3785</a></code>
+  <code><a href="https://app.revolt.chat/user/01J9ZXZ9A7SCXR44D0WWVW8YVK" title="kamisaki.desu#3785"><img width="22" src="assets/revolt.svg"> kamisaki.sh#3785</a></code>
   <code><a href="https://www.discord.com/users/1279151593056632949" title="kamisaki.san"><img width="22" src="assets/discord.svg"> kamisaki.san</a></code>
 </h5>
 
@@ -23,10 +23,12 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 </a>
 
 ## My Goals
+- [x] Manually installing Arch Linux
+- [x] Decorate my system with as many anime girls as possible
 - [x] Learn NodeJS at an intermediate level
 - [ ] Become a successful developer
 - [ ] Become the second Richard Stallman lmao
-- [ ] Go to heaven lol
+- [ ] Go to heaven
 
 
 ## People who have influenced me
@@ -43,6 +45,8 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 10. **Richard Stallman**
 11. **Linus Torvalds**
 12. **Edward Snowden**
+13. **izumi desu ✈ ✈ 🏢 🏢**
+14. **myself**
 
 
 ## Languages and Tools
@@ -57,4 +61,3 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 | discipline4everyone | WebApp                          | Python (Flask) | [discipline4everyone](https://github.com/xeyossr/discipline4everyone) | v2.4           |
 | EasyLinux-VPN       | GUI VPN App                     | Python         | [EasyLinux-VPN](https://github.com/xeyossr/EasyLinux-VPN)             | v1.1.0         |
 | xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                               | v1.2.0           |
-
