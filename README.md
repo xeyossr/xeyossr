@@ -31,23 +31,15 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 - [ ] Go to heaven
 
 
-## People who have influenced me
+## Badges
 
-1. **Muhammad (pbuh)**
-2. **Khalid ibn Walid (ra)**
-3. **Abd Allah ibn Abbas (ra)**
-4. **Imam Abu al-Hasan al-Ashari (rh)**
-5. **Imam Fakhr ad-Din ar-Razi (rh)**
-6. **Imam Shafii (rh)**
-7. **II.Mehmed**
-8. **Ibn Taymiyyah**
-9. **Abu al-Fadl Ismail al-Ganjavi (Nizami Ganjavi)**
-10. **Richard Stallman**
-11. **Linus Torvalds**
-12. **Edward Snowden**
-13. **izumi desu ✈ ✈ 🏢 🏢**
-14. **myself**
+<a href="http://www.github.com/cosmos-emissary">
+	<img src="https://github-readme-stats.vercel.app/api?username=cosmos-emissary&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cosmos-emissary's GitHub stats" />
+</a>
 
+<a href="https://github.com/cosmos-emissary" align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmos-emissary&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 ## Languages and Tools
 
