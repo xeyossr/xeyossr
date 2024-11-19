@@ -14,8 +14,8 @@
 My hobbies include reading books, listening to Quran (and reading Quran), customizing my Linux desktop, and programming. Some of my projects are private, like applications I use daily, while a few are published on GitHub (though very rarely :)). 
 
 <h5 align="left">
-  <code><a href="https://app.revolt.chat/user/01J9ZXZ9A7SCXR44D0WWVW8YVK" title="kamisaki.desu#3785"><img width="22" src="assets/revolt.svg"> kamisaki.sh#3785</a></code>
-  <code><a href="https://www.discord.com/users/1279151593056632949" title="kamisaki.san"><img width="22" src="assets/discord.svg"> kamisaki.san</a></code>
+  <code><a href="https://app.revolt.chat/user/01J9ZXZ9A7SCXR44D0WWVW8YVK" title="kamisaki.desu#3785"><img width="22" src="assets/revolt.svg"> kamisaki.desu#3785</a></code>
+  <code><a href="https://www.discord.com/users/1279151593056632949" title="kamisaki.desu"><img width="22" src="assets/discord.svg"> kamisaki.desu</a></code>
 </h5>
 
 <a href="https://discord.com/users/1279151593056632949">
