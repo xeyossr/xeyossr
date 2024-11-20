@@ -41,7 +41,7 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 
 ## Languages and Tools
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,python,flask,nodejs,electron,expressjs,discordjs,mongodb,mysql)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=cpp,python,nodejs,js,flask,electron,expressjs,discordjs,html,css)](https://skillicons.dev)<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,vscode,discord,stackoverflow)](https://skillicons.dev)<br/>
 
 ## What is my projects?
