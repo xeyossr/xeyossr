@@ -53,8 +53,8 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 | EasyLinux-VPN       | GUI VPN App                     | Python         | [EasyLinux-VPN](https://github.com/xeyossr/EasyLinux-VPN)                                          | v1.1.0         |
 | xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                                                            | v1.2.0         |
 
-[![Citch](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=citch&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515)](https://github.com/xeyossr/citch)
-[![xDFM](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=xDFM&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515)](https://github.com/xeyossr/xDFM)
-[![Citch](https://github-readme-stats.vercel.app/api/pin/?username=bilinclilinuxtuketicileri&repo=bilinclilinuxtuketicileri.github.io&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515)](https://bilinclilinuxtuketicileri.github.io)
-[![discipline4everyone](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=discipline4everyone&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515)](https://github.com/xeyossr/discipline4everyone)
-[![EasyLinux VPN](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=EasyLinux-VPN&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515)](https://github.com/xeyossr/EasyLinux-VPN)
+[![Citch](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=citch&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true)](https://github.com/xeyossr/citch)
+[![xDFM](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=xDFM&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true)](https://github.com/xeyossr/xDFM)
+[![Citch](https://github-readme-stats.vercel.app/api/pin/?username=bilinclilinuxtuketicileri&repo=bilinclilinuxtuketicileri.github.io&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true)](https://bilinclilinuxtuketicileri.github.io)
+[![discipline4everyone](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=discipline4everyone&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true)](https://github.com/xeyossr/discipline4everyone)
+[![EasyLinux VPN](https://github-readme-stats.vercel.app/api/pin/?username=xeyossr&repo=EasyLinux-VPN&show_owner=true&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true)](https://github.com/xeyossr/EasyLinux-VPN)
