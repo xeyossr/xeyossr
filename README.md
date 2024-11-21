@@ -37,7 +37,7 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xeyossr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&layout=donut&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=#151515&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/xeyossr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&layout=donut&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/xeyossr)
 
 ## Languages and Tools
 
