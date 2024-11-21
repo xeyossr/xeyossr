@@ -50,4 +50,5 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 |---------------------|---------------------------------|----------------|-----------------------------------------------------------------------|----------------|
 | discipline4everyone | WebApp                          | Python (Flask) | [discipline4everyone](https://github.com/xeyossr/discipline4everyone) | v2.4           |
 | EasyLinux-VPN       | GUI VPN App                     | Python         | [EasyLinux-VPN](https://github.com/xeyossr/EasyLinux-VPN)             | v1.1.0         |
-| xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                               | v1.2.0           |
+| xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                               | v1.2.0         |
+| citch               | System fetch tool               | C++            | [citch](https://github.com/xeyossr/citch)                             | v1.0.0         |
