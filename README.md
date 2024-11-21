@@ -46,9 +46,9 @@ My hobbies include reading books, listening to Quran (and reading Quran), custom
 
 ## What is my projects?
 
-| Project Name        | Project Description             | Languages      | GitHub                                                                | Latest Version |
-|---------------------|---------------------------------|----------------|-----------------------------------------------------------------------|----------------|
-| Citch               | System fetch tool               | C++            | [citch](https://github.com/xeyossr/citch)                             | v1.0.0         |
-| discipline4everyone | WebApp                          | Python (Flask) | [discipline4everyone](https://github.com/xeyossr/discipline4everyone) | v2.4           |
-| EasyLinux-VPN       | GUI VPN App                     | Python         | [EasyLinux-VPN](https://github.com/xeyossr/EasyLinux-VPN)             | v1.1.0         |
-| xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                               | v1.2.0         |
+| Project Name        | Project Description             | Languages      | GitHub / AUR                                                                                       | Latest Version |
+|---------------------|---------------------------------|----------------|----------------------------------------------------------------------------------------------------|----------------|
+| Citch               | System fetch tool               | C++            | [citch](https://github.com/xeyossr/citch) / [citch AUR](https://aur.archlinux.org/packages/citch)  | v1.0.0         |
+| discipline4everyone | WebApp                          | Python (Flask) | [discipline4everyone](https://github.com/xeyossr/discipline4everyone)                              | v2.4           |
+| EasyLinux-VPN       | GUI VPN App                     | Python         | [EasyLinux-VPN](https://github.com/xeyossr/EasyLinux-VPN)                                          | v1.1.0         |
+| xDFM                | Terminal-based dotfiles manager | Python         | [xDFM](https://github.com/xeyossr/xDFM)                                                            | v1.2.0         |
