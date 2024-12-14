@@ -1,12 +1,22 @@
 <table align="center" style="width: 100%;">
   <tr>
-      <h2 align="center">
-       Konnichiwa 👋, watashi wa xeyossr desu,
-      </h2>
-      <p><img src="https://raw.githubusercontent.com/xeyossr/xeyossr/main/assets/rikka.gif" alt="Rikka" style="max-width: 100px;">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark" alt="xeyossr" /></p>
+    <td align="center">
+      <h2>Konnichiwa 👋, watashi wa xeyossr desu,</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/xeyossr/xeyossr/main/assets/rikka.gif" alt="Rikka" style="max-width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark" alt="xeyossr">
+    </td>
   </tr>
 </table>
+
+
 
 | Project Name        | Project Description             | Languages      | GitHub / AUR                                                                                       | Latest Version |
 |---------------------|---------------------------------|----------------|----------------------------------------------------------------------------------------------------|----------------|
