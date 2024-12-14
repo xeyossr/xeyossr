@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark" alt="xeyossr">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark&card_width=485px" alt="xeyossr">
     </td>
   </tr>
 </table>
