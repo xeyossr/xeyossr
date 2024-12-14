@@ -4,7 +4,7 @@
        Konnichiwa 👋, watashi wa xeyossr desu,
       </h2>
       <p><img src="https://raw.githubusercontent.com/xeyossr/xeyossr/main/assets/rikka.gif" alt="Rikka" style="max-width: 100px;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark" alt="xeyossr" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&locale=en&layout=compact&theme=dark" alt="xeyossr" /></p>
   </tr>
 </table>
 
