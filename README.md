@@ -7,7 +7,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeyossr&show_icons=true&layout=compact&theme=dark&card_width=467px">
     </td>
     <td style="vertical-align: top; text-align: center; width: 30%;">
-      <img src="https://raw.githubusercontent.com/xeyossr/xeyossr/main/assets/johan.gif" alt="Johan" style="max-width: 100px;">
+      <img src="https://raw.githubusercontent.com/xeyossr/xeyossr/main/assets/johan.gif" alt="Johan" style="max-width: 100px; height: 400px;">
     </td>
   </tr>
 </table>
