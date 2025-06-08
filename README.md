@@ -1,6 +1,8 @@
 <body>
   <h2 align="center">🦊 ~ about me</h2>
 
+   <img src="assets/nogg.gif" alt="nogg gif" width="350" height="350" align="center">
+
   <div align="center">
     <div style="text-align: center; font-size: 1.2rem; line-height: 1.6; color: #333; max-width: 300px;">
       <div style="margin-bottom: 12px;" align="center">🌿 <strong>Arch+Hyprland enjoyer</strong></div>
@@ -9,7 +11,6 @@
       <p></p>
     </div>
 
-   <img src="assets/nogg.gif" alt="nogg gif" width="350" height="350" align="center">
    <p></p>
 <div align="center" style="display: inline-flex; gap: 30px; align-items: center;">
   <span>🍬 <strong><a href="https://github.com/xeyossr/dots">xeyossr/dots</a></strong></span>
