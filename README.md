@@ -1,9 +1,10 @@
 <body>
   <h2 align="center">🦊 ~ about me</h2>
 
-   <img src="assets/nogg.gif" alt="nogg gif" width="350" height="350" align="center">
 
   <div align="center">
+   <img src="assets/nogg.gif" alt="nogg gif" width="350" height="350" align="center">
+    <p></p>
     <div style="text-align: center; font-size: 1.2rem; line-height: 1.6; color: #333; max-width: 300px;">
       <div style="margin-bottom: 12px;" align="center">🌿 <strong>Arch+Hyprland enjoyer</strong></div>
       <div style="margin-bottom: 12px;" align="center">💘 <strong>in love with Linux</strong></div>
