@@ -10,7 +10,7 @@
       <div style="margin-bottom: 12px;">😵‍💫 <strong>i hate systemd (also use it)</strong></div>
     </td>
     <td style="width: 50%;">
-      <img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250">
+      <a href="https://discord.com/users/1379125777710190637"><img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250"></a>
     </td>
   </tr>
 
