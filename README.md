@@ -10,14 +10,14 @@
       <div style="margin-bottom: 12px;">😵‍💫 <strong>i hate systemd (also use it)</strong></div>
     </td>
     <td style="width: 50%;">
-      <a href="https://discord.com/users/1379125777710190637"><img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250"></a>
+      <img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250">
     </td>
   </tr>
 
   <!-- Alt satır: Discord Presence -->
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://lanyard.cnrad.dev/api/1379125777710190637?showDisplayName=true" alt="Discord Presence">
+      <a href="https://discord.com/users/1379125777710190637"><img src="https://lanyard.cnrad.dev/api/1379125777710190637?showDisplayName=true?v=1" alt="Discord Presence"></a>
     </td>
   </tr>
 </table>
