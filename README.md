@@ -17,7 +17,7 @@
   <!-- Alt satır: Discord Presence -->
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      <a href="https://discord.com/users/1379125777710190637"><img src="https://lanyard.cnrad.dev/api/1379125777710190637?showDisplayName=true?v=1" alt="Discord Presence"></a>
+      <a href="https://discord.com/users/1379125777710190637"><img src="https://lanyard.cnrad.dev/api/1379125777710190637?showDisplayName=true" alt="Discord Presence"></a>
     </td>
   </tr>
 </table>
