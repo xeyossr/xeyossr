@@ -8,6 +8,7 @@
       <div style="margin-bottom: 12px;">🌿 <strong>Arch+Hyprland enjoyer</strong></div>
       <div style="margin-bottom: 12px;">💘 <strong>in love with Linux</strong></div>
       <div style="margin-bottom: 12px;">😵‍💫 <strong>i hate systemd (also use it)</strong></div>
+      <div style="margin-bottom: 12px;">🤝 <strong>best friend: <a href="https://github.com/mstsecurity">@mstsecurity</a></strong></div>
     </td>
     <td style="width: 50%;">
       <img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250">
