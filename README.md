@@ -80,7 +80,7 @@
 
 <br/>
 
-<img src="https://dsc-readme.tsuni.dev/api/user/1379125777710190637" alt="Discord Status" />
+[<img src="https://dsc-readme.tsuni.dev/api/user/1379125777710190637" alt="Discord Status" />](https://discord.com/users/1379125777710190637)
 
 </div>
 
