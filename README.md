@@ -72,7 +72,7 @@
 
 [<img src="https://img.shields.io/badge/AniList-blue?style=for-the-badge&logo=anilist&logoColor=white" alt=anilist style="margin-bottom: 7px;" />](https://anilist.co/user/yeaweeb/)
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 7px;" />](https://github.com/xeyossr)
-[<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="email" style="margin-bottom: 7px;" />](mailto:yeaweeb@protonmail.com)
+[<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="email" style="margin-bottom: 7px;" />](mailto:yeaweeb@duck.com)
 
 <!--
 [<img src="https://custom-icon-badges.demolab.com/badge/WebSite-black.svg?&style=for-the-badge&logo=globe&logoColor=darkgreen" alt="Website" />](https://xeyossr.github.io)
