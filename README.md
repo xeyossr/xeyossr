@@ -86,8 +86,8 @@
 ## <div align="center">📊 GitHub Stats (xeyossr)</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github&v=1" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&v=1" height="200"/>
 </p>
 
 <br/>
