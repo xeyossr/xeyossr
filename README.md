@@ -47,7 +47,6 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,8 +85,8 @@
 ## <div align="center">📊 GitHub Stats (xeyossr)</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github&v=2" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&v=2" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github&v=1" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&v=1" height="200"/>
 </p>
 
 <br/>
