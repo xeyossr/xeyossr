@@ -1,32 +1,4 @@
-<!--
-
-<h2 align="center">🦊 ~ about me</h2>
-
-<table align="center" style="width: 100%; max-width: 800px;">
-  <tr>
-    <td style="vertical-align: center; font-size: 1.2rem; line-height: 1.6; padding-right: 20px; padding-left: 20px; width: 50%;">
-      <div style="margin-bottom: 12px;">🧠 <strong>18 y.o. overthinker™</strong></div>
-      <div style="margin-bottom: 12px;">🌿 <strong>Arch+Hyprland enjoyer</strong></div>
-      <div style="margin-bottom: 12px;">💘 <strong>in love with Linux</strong></div>
-      <div style="margin-bottom: 12px;">😵‍💫 <strong>i hate systemd (also use it)</strong></div>
-      <div style="margin-bottom: 12px;">🤝 <strong>best friend: <a href="https://github.com/mstsecurity">@mstsecurity</a></strong></div>
-    </td>
-    <td style="width: 50%;">
-      <img src="https://media1.tenor.com/m/XvnHS-J2EasAAAAC/makise-kirusu.gif" alt="makise gif" width="250" height="250">
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 20px;">
-      <a href="https://discord.com/users/1379125777710190637"><img src="https://dsc-readme.tsuni.dev/api/user/1379125777710190637" alt="Discord Presence"></a>
-    </td>
-  </tr>
-</table>
-
-
--->
-
-<img src=".github/makima.gif" alt="makise gif" width="300" align="right">
+<img src=".github/obito-tobi.gif" alt="Obito gif" width="180" align="right">
 
 ### <div align="center">🦊 ~ about me</div>
 
@@ -34,12 +6,12 @@
   
 **🧠 18 y.o. overthinker™**   
 **🌿 Arch+Hyprland enjoyer**   
-**💘 in love with Linux**   
-**😵‍💫 i hate systemd (also use it)**   
-**🤝 besto friendo: <a href="https://github.com/mstsecurity">@mstsecurity</a>**
+**💘 in love with Linux**
 
 </div>
 <br/>
+
+---
 
 # <div align="center">💻 Skills</div>
 
@@ -47,7 +19,6 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,8 +57,8 @@
 ## <div align="center">📊 GitHub Stats (xeyossr)</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&rank_icon=github" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&v=1" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&v=1" height="200"/>
 </p>
 
 <br/>
