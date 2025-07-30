@@ -8,7 +8,7 @@
 
 ---
 
-<img src=".github/rikka2.gif" width="180" align="right">
+<img src=".github/rikka2.gif" width="165" align="right">
 
 ### 🦊 ~ About Me
 
