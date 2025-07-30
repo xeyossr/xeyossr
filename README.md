@@ -47,13 +47,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/xeyossr/github-readme-stats">
-    <img alt="xeyossr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
-  </a>
-  <br/>
-  <img width="220px" src=".github/waguri.png" />
-  <br/>
-  <a href="https://github.com/xeyossr/github-readme-stats">
-    <img alt="xeyossr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
-  </a>
+<img alt="xeyossr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xeyossr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&v=1" />
+<img width="120px" src=".github/waguri.png" style="float: none; margin: 0 auto;" />
+<img alt="xeyossr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyossr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" />
 </p>
+
