@@ -3,7 +3,7 @@
   Welcome to <b>xeyossr</b>’s crazy code society!<br><br>
   <i>Peko-peko 🍱 [hungry] &nbsp;|&nbsp; Nyan-nyan 🐱 [meow] &nbsp;|&nbsp; Chika-chika 💡 [blink] &nbsp;|&nbsp; Fuwa-fuwa ☁️ [fluffy] &nbsp;|&nbsp; Poyo-poyo 🫠 [squishy] &nbsp;|&nbsp; Run-run 🎀 [cheerful]</i><br><br>
   🎮 Just someone with <b>too much free time</b> who codes for fun — mostly in <b>Go</b> 🐹<br>
-  🐧 <b>Arch Linux</b> + <b>Hyprland/i3</b> user 💙💜
+  🐧 <b>Artix</b> + <b>Hyprland/i3</b> user 💙💜
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Artix Linux](https://img.shields.io/badge/Artix_Linux-1793D1?style=for-the-badge&logo=artixlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-32b8d8?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
