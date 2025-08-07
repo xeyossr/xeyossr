@@ -14,7 +14,7 @@
 
 - 💻 I spend most of my day **coding**, **watching anime**, and **chatting** on Discord
 - 🧠 I'm curious about **philosophy**, **religion**, and **programming**
-- 🐧 **Arch Linux** + **Hyprland/i3** user who enjoys clean, minimal setups
+- 🐧 **Artix Linux** + **Hyprland/i3** user who enjoys clean, minimal setups
 - 🐹 I mostly code in **Go** — _just for fun_
 - 🎮 I like building small **terminal tools** and messing with new ideas
 
