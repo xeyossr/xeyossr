@@ -3,7 +3,7 @@
   Welcome to <b>xeyossr</b>’s crazy code society!<br><br>
   <i>Peko-peko 🍱 [hungry] &nbsp;|&nbsp; Nyan-nyan 🐱 [meow] &nbsp;|&nbsp; Chika-chika 💡 [blink] &nbsp;|&nbsp; Fuwa-fuwa ☁️ [fluffy] &nbsp;|&nbsp; Poyo-poyo 🫠 [squishy] &nbsp;|&nbsp; Run-run 🎀 [cheerful]</i><br><br>
   🎮 Just someone with <b>too much free time</b> who codes for fun — mostly in <b>Go</b> 🐹<br>
-  🐧 <b>Artix</b> + <b>Hyprland/i3</b> user 💙💜
+  🐧 <b>Artix</b> + <b>Hyprland</b> user 💙💜
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 - 💻 I spend most of my day **coding**, **watching anime**, and **chatting** on Discord
 - 🧠 I'm curious about **philosophy**, **religion**, and **programming**
-- 🐧 **Artix Linux** + **Hyprland/i3** user who enjoys clean, minimal setups
+- 🐧 **Artix Linux** + **Hyprland** user who enjoys clean, minimal setups
 - 🐹 I mostly code in **Go** — _just for fun_
 - 🎮 I like building small **terminal tools** and messing with new ideas
 
